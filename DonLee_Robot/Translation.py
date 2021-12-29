@@ -42,12 +42,12 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@dev_mirshad
+@mk_developerbot
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code>MK Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/dev_mirshad">Mirshad</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/mk_developerbot">Mk</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
