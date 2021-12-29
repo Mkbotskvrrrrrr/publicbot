@@ -1640,14 +1640,14 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/dev_mirshad'),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/mk_developerbot'),
             InlineKeyboardButton('Source Code 🧾', url ='https://www.google.co.in/')
         ],[
-            InlineKeyboardButton('🛠 Support 🛠', url='https://t.me/mkbotsupdate')
+            InlineKeyboardButton('🛠 Support 🛠', url='https://t.me/mk_developerbot')
         ],[
             InlineKeyboardButton('⚙ Help ⚙', callback_data="help")
         ],[
-            InlineKeyboardButton('� Developer �', url='https://t.me/dev_mirshad')
+            InlineKeyboardButton('� Developer �', url='https://t.me/mk_developerbot')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
