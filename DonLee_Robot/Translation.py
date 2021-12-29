@@ -8,8 +8,7 @@ class Translation(object):
 <b>Am Just A MkAutofilterBot Adv Auto Filter Bot....😉</b>
 
 <b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
-<b>Watch the video below to build an DonLee Adv Autofilter bot like me...</b>
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Movies</b>
 <b>Press /help to know about available commands🤪</b>"""    
    
     HELP_TEXT = """
